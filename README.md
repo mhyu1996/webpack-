@@ -56,6 +56,8 @@ projectB 和 projectC 项目的打包同projectA
 到此，所有的配置完成，即可打包。
 ## 参考资料
 1.webpack中文文档 https://www.webpackjs.com/concepts/
+
 2. vue+webpack多个项目动态打包：https://www.jianshu.com/p/fa19a07b1496
+
 3. webpack 4 Code Splitting 的 splitChunks 配置：https://imweb.io/topic/5b66dd601402769b60847149
 
