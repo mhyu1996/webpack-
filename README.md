@@ -58,4 +58,5 @@ projectB 和 projectC 项目的打包同projectA
 1.webpack中文文档 https://www.webpackjs.com/concepts/                                                                                                                                     
 2. vue+webpack多个项目动态打包：https://www.jianshu.com/p/fa19a07b1496                                                                                                                      
 3. webpack 4 Code Splitting 的 splitChunks 配置：https://imweb.io/topic/5b66dd601402769b60847149
-
+##TO DO
+路由配置webpackChunkName 可配置当前页面指定名称的js和css
