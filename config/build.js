@@ -8,5 +8,6 @@ let fs = require('fs')
 fs.writeFileSync('./config/project.js', `exports.name = '${projectName}'`)
 console.log('projectName:'+projectName);
 // 下面两行代码继续执行命令（npm run build），执行默认命令开始进行打包
+// node创建执行子进程
 let exec = require('child_process').execSync;
 exec('npm run b', {stdio: 'inherit'});
