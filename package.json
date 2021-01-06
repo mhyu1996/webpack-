@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^11.0.1",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "babel-polyfill": "^6.26.0",
     "bootstrap-datepicker": "^1.8.0",
     "bootstrap-slider": "^10.6.1",
